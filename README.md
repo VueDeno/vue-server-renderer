@@ -12,7 +12,7 @@ A vue server renderer like (https://www.npmjs.com/package/vue-server-renderer) b
 
 ## Example Demo
 
-import vueServerRenderer from 'https://deno.land/x/vue_server_renderer@1.0.1/mod.js'
+import vueServerRenderer from 'https://deno.land/x/vue_server_renderer@/mod.js'
 
 
 vueServerRenderer(App, (err:any, res:any) => {
