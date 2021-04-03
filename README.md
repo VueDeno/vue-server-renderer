@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/VueServerRenderer/VueServerRenderer/main/lzyaemujz884m4tggslk.webp" width="200" alt="logo"/>
 </div>
 
-# deno vueServerRenderer
+# deno vue-server-renderer
 
 This package offers deno server-side rendering
 
