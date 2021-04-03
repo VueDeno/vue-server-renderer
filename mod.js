@@ -13255,4 +13255,4 @@ function mainFunc(global, factory) {
 
   return entryServerBasicRenderer;
 }
-export default mainFunc;
+export default mainFunc();
