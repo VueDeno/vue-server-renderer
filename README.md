@@ -12,16 +12,15 @@ A vue server renderer like (https://www.npmjs.com/package/vue-server-renderer) b
 
 ## Example Demo
 
+```typescript
 import vueServerRenderer from 'https://deno.land/x/vue_server_renderer@/mod.js'
 
-
 vueServerRenderer(App, (err:any, res:any) => {
-        console.log('result', res); 
-        console.log('error', err);
-        //print(res);
-        rendered = res;
-      });
-
+  console.log('result', res); 
+  console.log('error', err);
+  rendered = res;
+});
+```
 
 
 
